@@ -1,0 +1,16 @@
+.main {
+  min-height: 100vh;
+  padding: 3rem 0;
+  background-color: #201e1f;
+  color: #f0efeb;
+  transition-property: color;
+  transition-property: background-color;
+  transition-duration: 1s;
+}
+
+.title {
+  width: 100%;
+  height: auto;
+  letter-spacing: 0.5rem;
+  text-align: center;
+}
