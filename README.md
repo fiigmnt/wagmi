@@ -1,1 +1,1 @@
-# WAGMI
+# WAGMI Public Site
